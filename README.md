@@ -4,9 +4,10 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [Expo Router](https://expo.github.io/router/docs/)
 - [Jest](https://jestjs.io/)
-- [React Native Testing Library](https://callstack.github.io/react-native-testing-library/)
 
 WIP, to be added:
+
+- [React Native Testing Library](https://callstack.github.io/react-native-testing-library/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
